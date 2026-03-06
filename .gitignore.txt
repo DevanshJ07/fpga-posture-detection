@@ -6,7 +6,7 @@
 .runs/
 .Xil/
 
-# Vivado logs
+# Logs
 *.jou
 *.log
 *.str
@@ -14,11 +14,3 @@
 # Bitstreams
 *.bit
 *.bin
-
-# Temporary files
-*.tmp
-*.bak
-
-# OS files
-.DS_Store
-Thumbs.db
