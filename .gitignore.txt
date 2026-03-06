@@ -1,0 +1,24 @@
+# Vivado build artifacts
+.cache/
+.hw/
+.ip_user_files/
+.sim/
+.runs/
+.Xil/
+
+# Vivado logs
+*.jou
+*.log
+*.str
+
+# Bitstreams
+*.bit
+*.bin
+
+# Temporary files
+*.tmp
+*.bak
+
+# OS files
+.DS_Store
+Thumbs.db
